@@ -22,16 +22,10 @@ I’m currently learning <b>Cybersecurity (Pentesting)</b> and aiming to earn my
 <h1 align="center">📊 GitHub Stats:</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JrSh4dow&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" height="180"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=JrSh4dow&theme=transparent&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JrSh4dow&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" height="140"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=JrSh4dow&theme=transparent&hide_border=false" height="140"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JrSh4dow&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</p>
-
-<h3 align="center">🔝 Top Contributed Repo</h3>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=JrSh4dow&limit=5&theme=transparent&combine_all_yearly_contributions=true"/>
 </p>
